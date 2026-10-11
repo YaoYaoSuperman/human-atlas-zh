@@ -2,6 +2,16 @@
 
 交互式 3D 人体解剖图谱(简体中文版),基于 [ashemag/human-atlas](https://github.com/ashemag/human-atlas) 与 **BodyParts3D** 成年男性参考解剖数据:2,234 个可独立选择的网格、15 个解剖系统、3,432 个命名概念,约 228 万三角形(压缩后约 33 MB)。
 
+![主视图](docs/images/overview.png)
+
+| 中文搜索与双语结果 | 结构详情面板 |
+| :---: | :---: |
+| ![中文搜索](docs/images/search.png) | ![结构详情](docs/images/detail.png) |
+
+| 分解视图 | 骨骼系统预设 |
+| :---: | :---: |
+| ![分解视图](docs/images/explode.png) | ![骨骼系统](docs/images/skeleton.png) |
+
 ## 汉化版新增内容
 
 在原项目基础上,本仓库做了完整的简体中文本地化:
